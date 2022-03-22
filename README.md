@@ -1,5 +1,7 @@
 # nykaa-fashion Clone
  This project is built for only educational purpose.
+ Nykaa Fashion is a amazing e-commerce web application of fashion wear.
+ I am greatful for I create clone of little part of Nykaa fashion.
 <br>
 ## A clone of web application of Nykaa
 <br>
