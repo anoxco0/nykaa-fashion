@@ -8,7 +8,7 @@ live here original web. --> https://www.nykaafashion.com/
  
  I am greatful for built clone of little part of Nykaa fashion.
 <br>
-## A clone of web application of Nykaa
+## A clone of web application of Nykaa Fashion
 <br>
 ## Screenshots
 <br>
