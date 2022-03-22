@@ -429,7 +429,7 @@ if(signStatus=="signedUp"){
    function logOut(){
        localStorage.removeItem("User");
        localStorage.removeItem("signIn");
-       window.location.href="mainpage.html";
+       window.location.href="index.html";
    }
 
 // ===================================================================================Wish List=========================================================================
@@ -477,7 +477,7 @@ if(signStatus=="signedUp"){
           window.onclick=function(event){
              if(event.target==Cart){
                 //  Cart.style.display="none"
-                window.location.href="mainpage.html";
+                window.location.href="index.html";
              }
          }
       }
@@ -496,7 +496,7 @@ if(signStatus=="signedUp"){
     function goToShop(){
         // Cart.style.display="none";
         // cart.style.display="none";
-        window.location.href="mainpage.html"
+        window.location.href="index.html"
     }
 
 //  -----------------------------------------------------------------------------------open signup page
@@ -535,7 +535,7 @@ document.getElementById("signUp").addEventListener("click", signUp);
 
        userData.push(userobj);
        localStorage.setItem("userDatabase", JSON.stringify(userData));
-       window.location.href="mainpage.html";
+       window.location.href="index.html";
        alert("Signed Up Succesfuly Now you can sign in")
     }
 
@@ -555,7 +555,7 @@ function signInfu(){
                     localStorage.setItem("User", JSON.stringify(regUserData[i].mail));
                     func = "working";
                     alert("Signed in Succesfully Now fill your Bag with happiness!")
-                    window.location.href="mainpage.html";
+                    window.location.href="index.html";
                    
                 }
             } if(func=="Noworking"){
