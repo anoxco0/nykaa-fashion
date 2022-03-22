@@ -3,7 +3,7 @@
  Nykaa Fashion is an amazing e-commerce web application of fashion wear.
  <br>
  ## You can visit original site of Nykaa Fashion that provides amazing product.
- <a href="https://www.nykaafashion.com/"></a>
+live here original web. --> https://www.nykaafashion.com/
  <br>
  
  I am greatful for built clone of little part of Nykaa fashion.
